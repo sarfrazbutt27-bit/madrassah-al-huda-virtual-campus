@@ -1,0 +1,8 @@
+{
+  "name": "Madrassah Al-Huda Management 1",
+  "description": "Schulverwaltungs-App für Madrassah Al-Huda zur Schüleranmeldung, Anwesenheitskontrolle, Notenverwaltung und Vertragserstellung für Schulleiter und Lehrer.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
